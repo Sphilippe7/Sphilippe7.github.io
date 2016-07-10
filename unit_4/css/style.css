@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+
+
+body {
+	background-color: rgb(171, 255, 253);
+	font-family: 'Poiret One', cursive;
+
+}
+
+h1 {
+color: rgb(60, 113, 265);
+
+}
+
+p {
+	color: rgb(60, 113, 265);
+	font-family: 'Poiret One', cursive;
+
+}
+
+p2 {
+	color: rgb(60, 113, 265);
+	font-family: 'Poiret One', cursive;
+	
+}
+
+#slogan {
+	font-style: italic;
+	color: rgb(60, 113, 265);
+	font-family: 'Poiret One', cursive;
+
+}
+
+img {
+	margin: auto;
+	display: block;
+}
+
+ul {
+	color: rgb(60, 113, 265);
+
+}
