@@ -1,0 +1,79 @@
+
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+}
+
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+div/section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+
+body {
+	background-color: rgb(171, 255, 253);
+	font-family: 'Poiret One', cursive;
+
+}
+
+h1 {
+color: rgb(60, 113, 265);
+
+}
+
+p {
+	color: rgb(60, 113, 265);
+	font-family: 'Poiret One', cursive;
+
+}
+
+p2 {
+	color: rgb(60, 113, 265);
+	font-family: 'Poiret One', cursive;
+	
+}
+
+#slogan {
+	font-style: italic;
+	color: rgb(60, 113, 265);
+	font-family: 'Poiret One', cursive;
+
+}
+
+img {
+	margin: auto;
+	display: block;
+}
+
+ul {
+	color: rgb(60, 113, 265);
+
+}
